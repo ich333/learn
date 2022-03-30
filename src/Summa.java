@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class summa {
+public class Summa {
     public static void main(String[] args) {
 
         Scanner vvod = new Scanner(System.in);

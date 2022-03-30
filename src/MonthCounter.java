@@ -1,6 +1,6 @@
 import java.time.Month;
 import java.util.Scanner;
-public class monthCounter {
+public class MonthCounter {
     public static void main(String[] args) {
         Scanner month = new Scanner(System.in);
         try {
